@@ -1,0 +1,121 @@
+2023/08/09 20:46:09 [notice] 1#1: using the "epoll" event method
+2023/08/09 20:46:09 [notice] 1#1: nginx/1.25.1
+2023/08/09 20:46:09 [notice] 1#1: built by gcc 12.2.1 20220924 (Alpine 12.2.1_git20220924-r4) 
+2023/08/09 20:46:09 [notice] 1#1: OS: Linux 5.15.49-linuxkit
+2023/08/09 20:46:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/09 20:46:09 [notice] 1#1: start worker processes
+2023/08/09 20:46:09 [notice] 1#1: start worker process 28
+2023/08/09 20:46:09 [notice] 1#1: start worker process 29
+2023/08/09 20:58:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/09 20:58:23 [notice] 29#29: gracefully shutting down
+2023/08/09 20:58:23 [notice] 28#28: gracefully shutting down
+2023/08/09 20:58:23 [notice] 29#29: exiting
+2023/08/09 20:58:23 [notice] 28#28: exiting
+2023/08/09 20:58:23 [notice] 28#28: exit
+2023/08/09 20:58:23 [notice] 29#29: exit
+2023/08/09 20:58:24 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/08/09 20:58:24 [notice] 1#1: worker process 29 exited with code 0
+2023/08/09 20:58:24 [notice] 1#1: signal 29 (SIGIO) received
+2023/08/09 20:58:24 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2023/08/09 20:58:24 [notice] 1#1: worker process 28 exited with code 0
+2023/08/09 20:58:24 [notice] 1#1: exit
+2023/08/09 21:03:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:45 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:14
+2023/08/09 21:03:59 [notice] 1#1: using the "epoll" event method
+2023/08/09 21:03:59 [notice] 1#1: nginx/1.25.1
+2023/08/09 21:03:59 [notice] 1#1: built by gcc 12.2.1 20220924 (Alpine 12.2.1_git20220924-r4) 
+2023/08/09 21:03:59 [notice] 1#1: OS: Linux 5.15.49-linuxkit
+2023/08/09 21:03:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/09 21:03:59 [notice] 1#1: start worker processes
+2023/08/09 21:03:59 [notice] 1#1: start worker process 30
+2023/08/09 21:03:59 [notice] 1#1: start worker process 31
+2023/08/09 22:07:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/09 22:07:29 [notice] 30#30: gracefully shutting down
+2023/08/09 22:07:29 [notice] 31#31: gracefully shutting down
+2023/08/09 22:07:29 [notice] 30#30: exiting
+2023/08/09 22:07:29 [notice] 31#31: exiting
+2023/08/09 22:07:29 [notice] 31#31: exit
+2023/08/09 22:07:29 [notice] 30#30: exit
+2023/08/09 22:07:29 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/08/09 22:07:29 [notice] 1#1: worker process 30 exited with code 0
+2023/08/09 22:07:29 [notice] 1#1: worker process 31 exited with code 0
+2023/08/09 22:07:29 [notice] 1#1: exit
+2023/08/09 22:10:24 [notice] 1#1: using the "epoll" event method
+2023/08/09 22:10:24 [notice] 1#1: nginx/1.25.1
+2023/08/09 22:10:24 [notice] 1#1: built by gcc 12.2.1 20220924 (Alpine 12.2.1_git20220924-r4) 
+2023/08/09 22:10:24 [notice] 1#1: OS: Linux 5.15.49-linuxkit
+2023/08/09 22:10:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/09 22:10:24 [notice] 1#1: start worker processes
+2023/08/09 22:10:24 [notice] 1#1: start worker process 29
+2023/08/09 22:10:24 [notice] 1#1: start worker process 30
+2023/08/09 22:15:13 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/09 22:15:13 [notice] 29#29: gracefully shutting down
+2023/08/09 22:15:13 [notice] 30#30: gracefully shutting down
+2023/08/09 22:15:13 [notice] 30#30: exiting
+2023/08/09 22:15:13 [notice] 30#30: exit
+2023/08/09 22:15:13 [notice] 29#29: exiting
+2023/08/09 22:15:13 [notice] 29#29: exit
+2023/08/09 22:15:13 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/08/09 22:15:13 [notice] 1#1: worker process 30 exited with code 0
+2023/08/09 22:15:13 [notice] 1#1: signal 29 (SIGIO) received
+2023/08/09 22:15:13 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/08/09 22:15:13 [notice] 1#1: worker process 29 exited with code 0
+2023/08/09 22:15:14 [notice] 1#1: exit
+2023/08/09 22:16:34 [notice] 1#1: using the "epoll" event method
+2023/08/09 22:16:34 [notice] 1#1: nginx/1.25.1
+2023/08/09 22:16:34 [notice] 1#1: built by gcc 12.2.1 20220924 (Alpine 12.2.1_git20220924-r4) 
+2023/08/09 22:16:34 [notice] 1#1: OS: Linux 5.15.49-linuxkit
+2023/08/09 22:16:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/09 22:16:34 [notice] 1#1: start worker processes
+2023/08/09 22:16:34 [notice] 1#1: start worker process 29
+2023/08/09 22:16:34 [notice] 1#1: start worker process 30
+2023/08/10 21:06:11 [warn] 29#29: *130 upstream sent duplicate header line: "date: Thu, 10 Aug 2023 21:06:11 GMT", previous value: "Date: Thu, 10 Aug 2023 21:06:11 GMT", ignored while reading response header from upstream, client: 192.168.0.1, server: , request: "GET /api/orders HTTP/1.1", upstream: "fastcgi://192.168.0.4:9000", host: "localhost:8000"
+2023/08/10 21:11:44 [warn] 30#30: *137 upstream sent duplicate header line: "date: Thu, 10 Aug 2023 21:11:44 GMT", previous value: "Date: Thu, 10 Aug 2023 21:11:43 GMT", ignored while reading response header from upstream, client: 192.168.0.1, server: , request: "GET /api/orders HTTP/1.1", upstream: "fastcgi://192.168.0.4:9000", host: "localhost:8000"
+2023/08/10 21:48:31 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/10 21:48:32 [notice] 29#29: gracefully shutting down
+2023/08/10 21:48:32 [notice] 30#30: gracefully shutting down
+2023/08/10 21:48:32 [notice] 30#30: exiting
+2023/08/10 21:48:32 [notice] 29#29: exiting
+2023/08/10 21:48:32 [notice] 30#30: exit
+2023/08/10 21:48:32 [notice] 29#29: exit
+2023/08/10 21:48:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/08/10 21:48:32 [notice] 1#1: worker process 29 exited with code 0
+2023/08/10 21:48:32 [notice] 1#1: signal 29 (SIGIO) received
+2023/08/10 21:48:32 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/08/10 21:48:32 [notice] 1#1: worker process 30 exited with code 0
+2023/08/10 21:48:32 [notice] 1#1: exit
+2023/08/10 21:51:55 [notice] 1#1: using the "epoll" event method
+2023/08/10 21:51:55 [notice] 1#1: nginx/1.25.1
+2023/08/10 21:51:55 [notice] 1#1: built by gcc 12.2.1 20220924 (Alpine 12.2.1_git20220924-r4) 
+2023/08/10 21:51:55 [notice] 1#1: OS: Linux 5.15.49-linuxkit
+2023/08/10 21:51:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/10 21:51:55 [notice] 1#1: start worker processes
+2023/08/10 21:51:55 [notice] 1#1: start worker process 29
+2023/08/10 21:51:55 [notice] 1#1: start worker process 30
+2023/08/10 21:55:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2023/08/10 21:55:23 [notice] 29#29: gracefully shutting down
+2023/08/10 21:55:23 [notice] 30#30: gracefully shutting down
+2023/08/10 21:55:23 [notice] 30#30: exiting
+2023/08/10 21:55:23 [notice] 29#29: exiting
+2023/08/10 21:55:23 [notice] 29#29: exit
+2023/08/10 21:55:23 [notice] 30#30: exit
+2023/08/10 21:55:23 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/08/10 21:55:23 [notice] 1#1: worker process 30 exited with code 0
+2023/08/10 21:55:23 [notice] 1#1: signal 29 (SIGIO) received
+2023/08/10 21:55:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2023/08/10 21:55:23 [notice] 1#1: worker process 29 exited with code 0
+2023/08/10 21:55:23 [notice] 1#1: exit
+2023/08/10 21:58:59 [notice] 1#1: using the "epoll" event method
+2023/08/10 21:58:59 [notice] 1#1: nginx/1.25.1
+2023/08/10 21:58:59 [notice] 1#1: built by gcc 12.2.1 20220924 (Alpine 12.2.1_git20220924-r4) 
+2023/08/10 21:58:59 [notice] 1#1: OS: Linux 5.15.49-linuxkit
+2023/08/10 21:58:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/08/10 21:58:59 [notice] 1#1: start worker processes
+2023/08/10 21:58:59 [notice] 1#1: start worker process 29
+2023/08/10 21:58:59 [notice] 1#1: start worker process 30
