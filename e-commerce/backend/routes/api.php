@@ -25,7 +25,7 @@ Route::post('/login', [UserController::class, 'login']);
 Route::middleware('auth:sanctum')->group(function () {
     Route::apiResource('/items', ItemController::class)->except(['index', 'show']);
     
-    Route::prefix('orders')->middleware('auth')->group(function () {
+    Route::prefix('orders')->group(function () {
         Route::get('/', [OrderController::class, 'index']);
         Route::get('/{id}', [OrderController::class, 'show']);
         Route::post('/place-order', [OrderController::class, 'placeOrder']);
